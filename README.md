@@ -178,4 +178,9 @@ npm run dev
     인덱스 후 81ms
     ~~~
 2. 페이징 쿼리를 적용한 API endpoint를 알려주세요
+   /stations
 
+#### 피드백 링크 추가
+* https://github.com/next-step/infra-subway-performance/pull/136#discussion_r775878529
+* [데이터베이스 정규화](https://ko.wikipedia.org/wiki/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4_%EC%A0%95%EA%B7%9C%ED%99%94)
+* [CQRS 패턴](https://docs.microsoft.com/ko-kr/azure/architecture/patterns/cqrs)
